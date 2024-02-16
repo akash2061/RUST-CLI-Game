@@ -6,7 +6,7 @@ use std::io;
 fn main() {
     let matches = App::new("Guess the Number Game")
         .version("1.0")
-        .author("MorningStar_2061")
+        .author("akash2061")
         .about("A simple command-line guessing game.")
         .arg(
             Arg::with_name("attempts")
