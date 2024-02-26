@@ -22,7 +22,7 @@ This repository hosts my first Rust project - a simple "Guessing the Number" gam
 
 ### Download and Install:
 
-1. Go to the [Releases](https://github.com/your-username/your-repo/releases) page.
+1. Go to the [Releases](https://github.com/akash2061/RUST-CLI-Game/releases) page.
 2. Download the latest release for your platform.
 3. Open your terminal and navigate to the folder where the executable is downloaded.
 4. Copy the executable to the `/usr/local/bin` directory using the following command:
