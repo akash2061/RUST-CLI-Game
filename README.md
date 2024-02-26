@@ -3,7 +3,7 @@
 ### Welcome to my first Rust project! 🦀
 
 ## Description
-This repository hosts my first Rust project - a simple "Guessing the Number" game. It serves as an introduction to Rust programming, providing a hands-on experience with its syntax and features.
+This repository hosts my first Rust project - a simple "Guessing the Number" game for Linux Terminals. It serves as an introduction to Rust programming, providing a hands-on experience with its syntax and features.
 
 ## Game as CLI-Tool:
 ![code](img/cli.png)
