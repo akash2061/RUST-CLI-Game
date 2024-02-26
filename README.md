@@ -20,6 +20,23 @@ This repository hosts my first Rust project - a simple "Guessing the Number" gam
 
 # How to Play 🚀
 
+### Download and Install:
+
+1. Go to the [Releases](https://github.com/your-username/your-repo/releases) page.
+2. Download the latest release for your platform.
+3. Open your terminal and navigate to the folder where the executable is downloaded.
+4. Copy the executable to the `/usr/local/bin` directory using the following command:
+
+    ```bash
+    sudo cp ./your-executable /usr/local/bin/
+    ```
+
+    Replace `your-executable` with the actual name of the executable file - `guessing_game`.
+
+Now you can run the game from any terminal window by simply typing its name `guessing_game`, thanks to its location in `/usr/local/bin`.
+
+
+Feel free to explore the code, share feedback, or contribute to enhancing this small Rust project. Happy coding!
 
 # License
 
