@@ -28,10 +28,8 @@ This repository hosts my first Rust project - a simple "Guessing the Number" gam
 4. Copy the executable to the `/usr/local/bin` directory using the following command:
 
     ```bash
-    sudo cp ./your-executable /usr/local/bin/
+    sudo cp ./guessing_game /usr/local/bin/
     ```
-
-    Replace `your-executable` with the actual name of the executable file - `guessing_game`.
 
 Now you can run the game from any terminal window by simply typing its name `guessing_game`, thanks to its location in `/usr/local/bin`.
 
