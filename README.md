@@ -18,6 +18,11 @@ This repository hosts my first Rust project - a simple "Guessing the Number" gam
 - Rust Fundamentals: Explore the fundamentals of Rust programming language.
 - Beginner-Friendly: Ideal for those starting their journey with Rust.
 
+## Crates Used:
++ rand = "0.8.5"
++ colored = "2.1.0"
++ clap = "2.33.0"
+
 # How to Play 🚀
 
 ### Download and Install:
