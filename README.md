@@ -19,9 +19,9 @@ This repository hosts my first Rust project - a simple "Guessing the Number" gam
 - Beginner-Friendly: Ideal for those starting their journey with Rust.
 
 ## Crates Used:
-+ rand = "0.8.5"
-+ colored = "2.1.0"
-+ clap = "2.33.0"
++ rand = "v0.8.5"
++ colored = "v2.1.0"
++ clap = "v2.33.0"
 
 # How to Play 🚀
 
